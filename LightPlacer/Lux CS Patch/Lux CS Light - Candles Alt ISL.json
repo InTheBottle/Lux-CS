@@ -8,13 +8,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            -25.0,
-            45.0
-          ]
-        ]
+        "points": [[0.0, -25.0, 45.0]]
       }
     ],
     "models": [
@@ -32,18 +26,10 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            -50.0,
-            45.0
-          ]
-        ]
+        "points": [[0.0, -50.0, 45.0]]
       }
     ],
-    "models": [
-      "DynamicCandles\\candlehornwall01.nif"
-    ]
+    "models": ["DynamicCandles\\candlehornwall01.nif"]
   },
   {
     "lights": [
@@ -55,13 +41,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            -25.0,
-            45.0
-          ]
-        ]
+        "points": [[0.0, -25.0, 45.0]]
       }
     ],
     "models": [
@@ -80,13 +60,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            30.0,
-            45.0
-          ]
-        ]
+        "points": [[0.0, 30.0, 45.0]]
       }
     ],
     "models": [
@@ -104,13 +78,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            0,
-            55.0
-          ]
-        ]
+        "points": [[0.0, 0, 55.0]]
       }
     ],
     "models": [
@@ -144,13 +112,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            22.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 22.0]]
       }
     ],
     "models": [
@@ -190,13 +152,7 @@
           "flags": "IgnoreScale|InverseSquare",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            -23.0,
-            0.0,
-            30.0
-          ]
-        ]
+        "points": [[-23.0, 0.0, 30.0]]
       }
     ],
     "models": [
@@ -215,13 +171,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            50.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 50.0]]
       }
     ],
     "models": [
@@ -254,13 +204,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            30.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 30.0]]
       }
     ],
     "models": [
@@ -279,13 +223,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale|PortalStrict",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            40.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 40.0]]
       }
     ],
     "models": [
@@ -302,13 +240,7 @@
           "flags": "InverseSquare|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 100.0]]
       }
     ],
     "models": [
@@ -328,13 +260,7 @@
           "flags": "InverseSquare|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 100.0]]
       }
     ],
     "models": [
@@ -352,13 +278,7 @@
           "flags": "InverseSquare|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            100.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 100.0]]
       }
     ],
     "models": [
@@ -379,13 +299,7 @@
           "flags": "InverseSquare|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            130.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 130.0]]
       }
     ],
     "models": [
@@ -403,13 +317,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            -40.0,
-            0.0,
-            40.0
-          ]
-        ]
+        "points": [[-40.0, 0.0, 40.0]]
       }
     ],
     "models": [
@@ -435,13 +343,7 @@
           "light": "Lux_FakeFlickerNS",
           "radius": 64.0
         },
-        "points": [
-          [
-            0.0,
-            0.0,
-            15.0
-          ]
-        ]
+        "points": [[0.0, 0.0, 15.0]]
       }
     ],
     "models": [
@@ -474,13 +376,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            -20.0,
-            0.0,
-            15.0
-          ]
-        ]
+        "points": [[-20.0, 0.0, 15.0]]
       }
     ],
     "models": [

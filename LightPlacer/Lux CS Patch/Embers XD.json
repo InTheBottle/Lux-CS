@@ -1,0 +1,839 @@
+[
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.6,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[-7.0, 0.0, 40.0]]
+      }
+    ],
+    "models": ["effects\\fxfirewithemberslogs04.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 16.0]]
+      }
+    ],
+    "models": ["effects\\fxfirewithembers05.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [202, 150, 86],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[-0.0, 3.8, 39.87]]
+      },
+      {
+        "data": {
+          "color": [255, 255, 252],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 80
+        },
+        "points": [[0.0, 0.0, 25.72]]
+      }
+    ],
+    "models": ["effects\\fxfiresovngarde.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 19.0]]
+      },
+      {
+        "data": {
+          "color": [70, 30, 0],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 50.0]]
+      }
+    ],
+    "models": ["effects\\fxfirewithembers01_cheap.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 143, 62],
+          "fade": 0.86,
+          "light": "MagicLightWhite01",
+          "radius": 128
+        },
+        "points": [
+          [-0.31, -0.0, 9.89],
+          [-0.31, -0.0, 28.26]
+        ]
+      }
+    ],
+    "models": ["clutter\\blacksmith\\blacksmithforge01\\blacksmithforge01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 146
+        },
+        "points": [[-16.0, 0.0, 16.0]]
+      }
+    ],
+    "models": ["effects\\ambient\\fxsmokelargeclose01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [70, 30, 0],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 256
+        },
+        "points": [[0.22, 9.15, -0.31]]
+      }
+    ],
+    "models": ["magic\\fireballprojectile02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [0, 109, 255],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [[0.0, 0.0, 25.0]]
+      },
+      {
+        "data": {
+          "color": [77, 142, 219],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 78
+        },
+        "points": [[0.0, 7.0, 7.0]]
+      }
+    ],
+    "models": ["effects\\c06fxfirebluewithembersheavy.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 17.0]]
+      },
+      {
+        "data": {
+          "color": [70, 30, 0],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 50.0]]
+      }
+    ],
+    "models": ["effects\\fxfirewithembers01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 15.0]]
+      },
+      {
+        "data": {
+          "color": [70, 30, 0],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 50.0]]
+      }
+    ],
+    "models": ["effects\\fxfirewithembers01_lite.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 143, 62],
+          "fade": 0.82,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[-11.92, 170.82, 36.79]]
+      }
+    ],
+    "models": ["furniture\\blacksmithingskyforgemarker.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["clutter\\woodfires\\campfire01burning.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.35,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [[-17.2, -1.44, -4.49]]
+      },
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.35,
+          "light": "MagicLightWhite01",
+          "radius": 19
+        },
+        "points": [[17.04, -1.64, -5.03]]
+      }
+    ],
+    "models": ["traps\\oiltrap\\oiltrap01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 12.5]]
+      },
+      {
+        "data": {
+          "color": [70, 30, 0],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 50.0]]
+      }
+    ],
+    "models": ["clutter\\woodfires\\fireplacewood01burning.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["clutter\\woodfires\\campfire01landburning.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [
+          [0.0, 0.0, 35.0],
+          [0.0, 0.0, 35.0]
+        ]
+      }
+    ],
+    "models": ["effects\\fxfirewithembers01_brazier.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.35,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [[-17.2, -1.44, -4.49]]
+      },
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.35,
+          "light": "MagicLightWhite01",
+          "radius": 19
+        },
+        "points": [[17.24, -3.18, -5.03]]
+      }
+    ],
+    "models": ["traps\\oiltrap\\oiltrapprojectile01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 146
+        },
+        "points": [[0.0, 0.0, 70.0]]
+      }
+    ],
+    "models": ["clutter\\giant\\giantcampfire01burningnoland.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [99, 73, 44],
+          "fade": 4.0,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[-0.47, -0.86, 5.26]]
+      }
+    ],
+    "models": ["effects\\fxfirewithembers02toggle.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [70, 30, 0],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [
+          [50.0, 0.0, 50.0],
+          [-50.0, 0.0, 50.0],
+          [0.0, 0.0, 50.0]
+        ]
+      },
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 25.0]]
+      },
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [
+          [-45.0, 0.0, 20.0],
+          [45.0, 0.0, 20.0]
+        ]
+      }
+    ],
+    "models": ["effects\\fxfirepit01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 17.0]]
+      },
+      {
+        "data": {
+          "color": [70, 30, 0],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 35.0]]
+      }
+    ],
+    "models": ["effects\\fxfirewithembers04.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 18.0]]
+      },
+      {
+        "data": {
+          "color": [70, 30, 0],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 50.0]]
+      }
+    ],
+    "models": ["effects\\fxfirewithemberslogs01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 146
+        },
+        "points": [[0.0, 0.0, 139.0]]
+      }
+    ],
+    "models": ["architecture\\solitude\\clutter\\slighthousefire.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [7, 35, 91],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 144
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["effects\\mgmagicfirepillarmidden01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.1,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[16.24, 154.21, 55.0]]
+      },
+      {
+        "data": {
+          "color": [70, 30, 0],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[16.24, 114.21, 80.0]]
+      }
+    ],
+    "models": ["_byoh\\furniture\\ovenmarker.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 143, 62],
+          "fade": 1.23,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[-11.92, 170.82, 36.79]]
+      }
+    ],
+    "models": ["dlc02\\architecture\\ravenrock\\dlc2blacksmithforge01rrnop.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [99, 73, 44],
+          "fade": 4.0,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[-0.47, -0.86, 5.26]]
+      }
+    ],
+    "models": ["effects\\fxfirewithembersheavytoggle.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 143, 62],
+          "fade": 0.86,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[-11.92, 170.82, 36.79]]
+      }
+    ],
+    "models": ["furniture\\blacksmithforgemarker.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 12.0]]
+      }
+    ],
+    "models": ["effects\\fxfirewithemberslogs02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [12, 130, 221],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["magic\\fireball01handeffects.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[-7.0, 0.0, 32.0]]
+      }
+    ],
+    "models": ["effects\\fxfirewithemberslogs03.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 5.0]]
+      },
+      {
+        "data": {
+          "color": [70, 30, 0],
+          "fade": 1.25,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 50.0]]
+      }
+    ],
+    "models": ["effects\\fxfirewithembers02.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [152, 42, 204],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 78
+        },
+        "points": [[0.0, 7.0, 7.0]]
+      },
+      {
+        "data": {
+          "color": [152, 42, 204],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [[0.0, 0.0, 25.0]]
+      }
+    ],
+    "models": ["effects\\tg09nocturnalfxfirepurple.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [64, 64, 64],
+          "fade": 2.0,
+          "light": "MagicLightWhite01",
+          "radius": 22
+        },
+        "points": [[0.0, 8.15, 0.0]]
+      }
+    ],
+    "models": ["magic\\fireballprojectile01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [64, 64, 64],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 22
+        },
+        "points": [[0.0, 8.15, 0.0]]
+      }
+    ],
+    "models": ["magic\\fireballprojectile03.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 250, 202],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 77
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      },
+      {
+        "data": {
+          "color": [0, 0, 0],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 39
+        },
+        "points": [[0.0, 8.0, 8.0]]
+      }
+    ],
+    "models": ["magic\\fxfirecloak01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [64, 64, 64],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 31
+        },
+        "points": [[0.0, 2.5, -0.31]]
+      }
+    ],
+    "models": ["magic\\fireboltprojectile.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [64, 64, 64],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 22
+        },
+        "points": [[0.0, 8.15, 0.0]]
+      }
+    ],
+    "models": ["magic\\firesprayfx01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [161, 67, 16],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 55
+        },
+        "points": [[0.0, -0.0, 8.17]]
+      }
+    ],
+    "models": ["magic\\firestormareaeffect.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.35,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [[-17.2, -1.44, -4.49]]
+      },
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.35,
+          "light": "MagicLightWhite01",
+          "radius": 19
+        },
+        "points": [[17.04, -1.64, -5.03]]
+      }
+    ],
+    "models": ["traps\\oiltrap\\oiltrapdestroyed.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [12, 130, 221],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      },
+      {
+        "data": {
+          "color": [18, 18, 18],
+          "fade": 1.0,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [[0.0, 0.0, 0.0]]
+      }
+    ],
+    "models": ["magic\\firestormhandeffects.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [22, 22, 22],
+          "fade": 1.2,
+          "light": "MagicLightWhite01",
+          "radius": 4
+        },
+        "points": [[0.01, -0.08, 1.64]]
+      },
+      {
+        "data": {
+          "color": [8, 8, 8],
+          "fade": 1.5,
+          "light": "MagicLightWhite01",
+          "radius": 10
+        },
+        "points": [[0.01, -0.08, 1.64]]
+      }
+    ],
+    "models": ["magic\\fxfirecloakhandeffects.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.35,
+          "light": "MagicLightWhite01",
+          "radius": 19
+        },
+        "points": [[17.04, -1.64, -5.03]]
+      },
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.35,
+          "light": "MagicLightWhite01",
+          "radius": 18
+        },
+        "points": [[-17.2, -1.44, -4.49]]
+      }
+    ],
+    "models": ["traps\\oillamptrap02\\oillamptrap01.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 143, 62],
+          "fade": 1.28,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[-11.92, 170.82, 36.79]]
+      }
+    ],
+    "models": ["furniture\\blacksmithforgemarkerwr.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [203, 144, 78],
+          "fade": 0.5,
+          "light": "MagicLightWhite01",
+          "radius": 146
+        },
+        "points": [[0.0, 0.0, 70.0]]
+      }
+    ],
+    "models": ["clutter\\giant\\giantcampfire01burning.nif"]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [255, 143, 62],
+          "fade": 0.86,
+          "light": "MagicLightWhite01",
+          "radius": 75
+        },
+        "points": [[-11.92, 170.82, 36.79]]
+      }
+    ],
+    "models": ["dlc02\\architecture\\ravenrock\\dlc2blacksmithforge01rr.nif"]
+  }
+]
