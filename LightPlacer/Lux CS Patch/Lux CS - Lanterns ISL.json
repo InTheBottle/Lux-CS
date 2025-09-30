@@ -16,7 +16,9 @@
     ]
   },
   {
-    "models": ["clutter\\common\\candlelanternwithcandle01.nif"],
+    "models": [
+      "clutter\\common\\candlelanternwithcandle01.nif"
+    ],
     "lights": [
       {
         "points": [[0.0, 0.0, 10.0]],
