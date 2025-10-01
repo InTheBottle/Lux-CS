@@ -41,13 +41,29 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [[0.0, -25.0, 45.0]]
+        "points": [[0.0, -12.0, 30.0]]
+      }
+    ],
+    "models": [
+      "clutter\\candles\\candlehorntable01.nif",
+      "Horn Candle Variants\\candlehorntable01_HCV.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "cutoff": 0.1,
+          "size": 1.7,
+          "fade": 0.8,
+          "flags": "InverseSquare|Flicker|IgnoreScale",
+          "light": "Lux_FakeFlickerNS"
+        },
+        "points": [[0.0, -25.0, 20.0]]
       }
     ],
     "models": [
       "clutter\\candles\\candlehornwall01.nif",
-      "clutter\\candles\\candlehorntable01.nif",
-      "Horn Candle Variants\\candlehorntable01_HCV.nif",
       "Horn Candle Variants\\candlehornwall01_HCV.nif"
     ]
   },
