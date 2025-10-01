@@ -41,13 +41,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            -12.0,
-            30.0
-          ]
-        ]
+        "points": [[0.0, -12.0, 30.0]]
       }
     ],
     "models": [
@@ -65,13 +59,7 @@
           "flags": "InverseSquare|Flicker|IgnoreScale",
           "light": "Lux_FakeFlickerNS"
         },
-        "points": [
-          [
-            0.0,
-            -25.0,
-            20.0
-          ]
-        ]
+        "points": [[0.0, -25.0, 20.0]]
       }
     ],
     "models": [
