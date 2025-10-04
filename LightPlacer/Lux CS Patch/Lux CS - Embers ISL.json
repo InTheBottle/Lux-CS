@@ -59,8 +59,14 @@
   {
     "models": ["clutter\\woodfires\\fireplacewood01burning.nif"],
     "lights": [
-      {   
-        "blackList": ["0x05b0c7", "0x05a13b", "0x05bf69", "0x05bf74", "0x05abcc"],
+      {
+        "blackList": [
+          "0x05b0c7",
+          "0x05a13b",
+          "0x05bf69",
+          "0x05bf74",
+          "0x05abcc"
+        ],
         "points": [[0, 0, 60]],
         "data": {
           "light": "Lux_DefaultTorch",
