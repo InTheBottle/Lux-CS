@@ -35,7 +35,7 @@
         "points": [[0.0, 0.0, -30.0]],
         "data": {
           "light": "Lux_FakeFlickerNS",
-          "fade": 1.5,
+          "fade": 2,
           "size": 2,
           "cutoff": 1,
           "flags": "InverseSquare|NoExternalEmittance"
