@@ -7,8 +7,8 @@
         "data": {
           "light": "Lux_DefaultLanternNS",
           "cutoff": 0.1,
-          "size": 2.2,
-          "fade": 0.5,
+          "size": 1.2,
+          "fade": 0.3,
           "flags": "InverseSquare|IgnoreScale",
           "conditions": ["Self GetInWorldspace Tamriel NONE == 0 AND"]
         }
@@ -23,8 +23,8 @@
         "data": {
           "light": "Lux_DefaultLanternNS",
           "cutoff": 0.1,
-          "size": 2.2,
-          "fade": 0.5,
+          "size": 1.2,
+          "fade": 0.3,
           "flags": "InverseSquare|IgnoreScale",
           "conditions": ["Self GetInWorldspace Tamriel NONE == 0 AND"]
         }
