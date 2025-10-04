@@ -17,10 +17,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -31,10 +32,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -45,10 +47,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -59,10 +62,11 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 247
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 0.0]]
       }
@@ -87,10 +91,11 @@
     "lights": [
       {
         "data": {
-          "color": [54, 101, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 19
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.24, 0.41, 19.32]]
       }
@@ -115,10 +120,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -129,10 +135,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -143,10 +150,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -157,10 +165,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -208,10 +217,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -222,10 +232,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -236,10 +247,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -250,10 +262,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -264,10 +277,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -278,10 +292,11 @@
     "lights": [
       {
         "data": {
-          "color": [255, 255, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 248
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, -120.74]]
       }
@@ -329,10 +344,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -371,10 +387,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -385,10 +402,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -399,10 +417,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -413,10 +432,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -427,10 +447,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -441,10 +462,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -455,10 +477,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -486,10 +509,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 12.0]]
       }
@@ -514,10 +538,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -528,10 +553,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -542,10 +568,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -556,10 +583,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -570,10 +598,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -584,10 +613,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -598,10 +628,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[41.67, 3.85, 100.35]]
       }
@@ -612,10 +643,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -626,10 +658,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -640,10 +673,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -654,10 +688,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -668,10 +703,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -682,10 +718,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -710,10 +747,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -724,10 +762,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -752,10 +791,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -766,10 +806,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -780,10 +821,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 8.33]]
       }
@@ -794,10 +836,11 @@
     "lights": [
       {
         "data": {
-          "color": [244, 145, 46],
-          "fade": 1.6,
-          "light": "MagicLightWhite01",
-          "radius": 71
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.0, 0.0, 12.0]]
       }
@@ -822,10 +865,11 @@
     "lights": [
       {
         "data": {
-          "color": [54, 101, 255],
-          "fade": 1.0,
-          "light": "MagicLightWhite01",
-          "radius": 19
+          "light": "Lux_DefaultLanternNS",
+          "cutoff": 0.1,
+          "size": 1.2,
+          "fade": 0.5,
+          "flags": "InverseSquare|IgnoreScale"
         },
         "points": [[0.24, 0.41, 17.65]]
       }
